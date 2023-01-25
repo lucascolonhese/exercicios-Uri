@@ -1,0 +1,15 @@
+D:\projetos\projeto_1006\projeto_1006\bin\Debug\net6.0\projeto_1006.exe
+D:\projetos\projeto_1006\projeto_1006\bin\Debug\net6.0\projeto_1006.deps.json
+D:\projetos\projeto_1006\projeto_1006\bin\Debug\net6.0\projeto_1006.runtimeconfig.json
+D:\projetos\projeto_1006\projeto_1006\bin\Debug\net6.0\projeto_1006.dll
+D:\projetos\projeto_1006\projeto_1006\bin\Debug\net6.0\projeto_1006.pdb
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.csproj.AssemblyReference.cache
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.AssemblyInfoInputs.cache
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.AssemblyInfo.cs
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.csproj.CoreCompileInputs.cache
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.dll
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\refint\projeto_1006.dll
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.pdb
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\projeto_1006.genruntimeconfig.cache
+D:\projetos\projeto_1006\projeto_1006\obj\Debug\net6.0\ref\projeto_1006.dll
