@@ -1,0 +1,15 @@
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.csproj.AssemblyReference.cache
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.AssemblyInfoInputs.cache
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.AssemblyInfo.cs
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.csproj.CoreCompileInputs.cache
+D:\Projetos\projeto_1019\projeto_1019\bin\Debug\net6.0\projeto_1019.exe
+D:\Projetos\projeto_1019\projeto_1019\bin\Debug\net6.0\projeto_1019.deps.json
+D:\Projetos\projeto_1019\projeto_1019\bin\Debug\net6.0\projeto_1019.runtimeconfig.json
+D:\Projetos\projeto_1019\projeto_1019\bin\Debug\net6.0\projeto_1019.dll
+D:\Projetos\projeto_1019\projeto_1019\bin\Debug\net6.0\projeto_1019.pdb
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.dll
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\refint\projeto_1019.dll
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.pdb
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\projeto_1019.genruntimeconfig.cache
+D:\Projetos\projeto_1019\projeto_1019\obj\Debug\net6.0\ref\projeto_1019.dll
