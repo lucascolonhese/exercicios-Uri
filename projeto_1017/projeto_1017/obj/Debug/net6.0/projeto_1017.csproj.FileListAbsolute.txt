@@ -1,0 +1,15 @@
+D:\Projetos\projeto_1017\projeto_1017\bin\Debug\net6.0\projeto_1017.exe
+D:\Projetos\projeto_1017\projeto_1017\bin\Debug\net6.0\projeto_1017.deps.json
+D:\Projetos\projeto_1017\projeto_1017\bin\Debug\net6.0\projeto_1017.runtimeconfig.json
+D:\Projetos\projeto_1017\projeto_1017\bin\Debug\net6.0\projeto_1017.dll
+D:\Projetos\projeto_1017\projeto_1017\bin\Debug\net6.0\projeto_1017.pdb
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.csproj.AssemblyReference.cache
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.AssemblyInfoInputs.cache
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.AssemblyInfo.cs
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.csproj.CoreCompileInputs.cache
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.dll
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\refint\projeto_1017.dll
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.pdb
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\projeto_1017.genruntimeconfig.cache
+D:\Projetos\projeto_1017\projeto_1017\obj\Debug\net6.0\ref\projeto_1017.dll
