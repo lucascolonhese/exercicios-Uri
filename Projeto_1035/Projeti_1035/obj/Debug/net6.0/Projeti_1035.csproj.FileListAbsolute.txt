@@ -1,0 +1,15 @@
+D:\Projetos\Projeti_1035\Projeti_1035\bin\Debug\net6.0\Projeti_1035.exe
+D:\Projetos\Projeti_1035\Projeti_1035\bin\Debug\net6.0\Projeti_1035.deps.json
+D:\Projetos\Projeti_1035\Projeti_1035\bin\Debug\net6.0\Projeti_1035.runtimeconfig.json
+D:\Projetos\Projeti_1035\Projeti_1035\bin\Debug\net6.0\Projeti_1035.dll
+D:\Projetos\Projeti_1035\Projeti_1035\bin\Debug\net6.0\Projeti_1035.pdb
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.csproj.AssemblyReference.cache
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.AssemblyInfoInputs.cache
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.AssemblyInfo.cs
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.dll
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\refint\Projeti_1035.dll
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.pdb
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\Projeti_1035.genruntimeconfig.cache
+D:\Projetos\Projeti_1035\Projeti_1035\obj\Debug\net6.0\ref\Projeti_1035.dll
