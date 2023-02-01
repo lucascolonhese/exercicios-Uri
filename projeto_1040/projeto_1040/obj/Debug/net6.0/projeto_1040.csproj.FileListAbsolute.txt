@@ -1,0 +1,15 @@
+D:\Projetos\projeto_1040\projeto_1040\bin\Debug\net6.0\projeto_1040.exe
+D:\Projetos\projeto_1040\projeto_1040\bin\Debug\net6.0\projeto_1040.deps.json
+D:\Projetos\projeto_1040\projeto_1040\bin\Debug\net6.0\projeto_1040.runtimeconfig.json
+D:\Projetos\projeto_1040\projeto_1040\bin\Debug\net6.0\projeto_1040.dll
+D:\Projetos\projeto_1040\projeto_1040\bin\Debug\net6.0\projeto_1040.pdb
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.csproj.AssemblyReference.cache
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.AssemblyInfoInputs.cache
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.AssemblyInfo.cs
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.csproj.CoreCompileInputs.cache
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.dll
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\refint\projeto_1040.dll
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.pdb
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\projeto_1040.genruntimeconfig.cache
+D:\Projetos\projeto_1040\projeto_1040\obj\Debug\net6.0\ref\projeto_1040.dll
