@@ -1,0 +1,15 @@
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.csproj.AssemblyReference.cache
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.AssemblyInfoInputs.cache
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.AssemblyInfo.cs
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.csproj.CoreCompileInputs.cache
+D:\Projetos\projeto_1047\projeto_1047\bin\Debug\net6.0\projeto_1047.exe
+D:\Projetos\projeto_1047\projeto_1047\bin\Debug\net6.0\projeto_1047.deps.json
+D:\Projetos\projeto_1047\projeto_1047\bin\Debug\net6.0\projeto_1047.runtimeconfig.json
+D:\Projetos\projeto_1047\projeto_1047\bin\Debug\net6.0\projeto_1047.dll
+D:\Projetos\projeto_1047\projeto_1047\bin\Debug\net6.0\projeto_1047.pdb
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.dll
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\refint\projeto_1047.dll
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.pdb
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\projeto_1047.genruntimeconfig.cache
+D:\Projetos\projeto_1047\projeto_1047\obj\Debug\net6.0\ref\projeto_1047.dll
