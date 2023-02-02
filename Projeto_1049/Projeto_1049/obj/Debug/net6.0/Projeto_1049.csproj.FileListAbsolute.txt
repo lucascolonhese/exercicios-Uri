@@ -1,0 +1,15 @@
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.csproj.AssemblyReference.cache
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.AssemblyInfoInputs.cache
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.AssemblyInfo.cs
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto_1049\Projeto_1049\bin\Debug\net6.0\Projeto_1049.exe
+D:\Projetos\Projeto_1049\Projeto_1049\bin\Debug\net6.0\Projeto_1049.deps.json
+D:\Projetos\Projeto_1049\Projeto_1049\bin\Debug\net6.0\Projeto_1049.runtimeconfig.json
+D:\Projetos\Projeto_1049\Projeto_1049\bin\Debug\net6.0\Projeto_1049.dll
+D:\Projetos\Projeto_1049\Projeto_1049\bin\Debug\net6.0\Projeto_1049.pdb
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.dll
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\refint\Projeto_1049.dll
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.pdb
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\Projeto_1049.genruntimeconfig.cache
+D:\Projetos\Projeto_1049\Projeto_1049\obj\Debug\net6.0\ref\Projeto_1049.dll
